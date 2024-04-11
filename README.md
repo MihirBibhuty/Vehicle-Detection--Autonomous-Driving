@@ -66,4 +66,4 @@ The code provides visualizations to better understand the data and model perform
 - [MihirBibhuty](https://github.com/MihirBibhuty)
 - [SahilVishwakarma](https://github.com/SVatghuby)
 - [RamKumar]()
-- [PrateekMishra]()
+- [PrateekMishra](https://github.com/prateek-m20)
